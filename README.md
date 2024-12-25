@@ -1,2 +1,3 @@
 # Hyrdrau1ic
-My personal repository
+8682C VEX Robotics
+Notebook, Code & Stuff
